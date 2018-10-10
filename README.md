@@ -1,4 +1,4 @@
-# HSBC-Client-Questioner-1
+# Questioner-1
 
 1) Exception handling,
 Try-catch-finally , checked unchecked exception, exception in inheritance, throws keyword, throwable, throw, super class subclass validity rules in exception
